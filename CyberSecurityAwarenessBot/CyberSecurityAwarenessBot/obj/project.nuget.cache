@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGObow2BT/s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\CyberSecurityAwarenessBot\\CyberSecurityAwarenessBot\\CyberSecurityAwarenessBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.speech\\10.0.5\\system.speech.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
